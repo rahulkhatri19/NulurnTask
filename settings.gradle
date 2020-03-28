@@ -1,0 +1,2 @@
+rootProject.name='NulurnTask'
+include ':app'
