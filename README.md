@@ -25,13 +25,13 @@ Nulurn Task
 <table>
   <tr>
     <td>
-      <img src="screenshot/course_screen.png" width=250 />
+      <img src="screenshot/splash_screen.png" width=250 />
+    </td>
+    <td>
+      <img src="screenshot/login_page.png" width=250 />
     </td>
     <td>
       <img src="screenshot/course_screen_selected.png" width=250 />
-    </td>
-    <td>
-      <img src="screenshot/detail_screen.png" width=250 />
     </td>
   </tr>
 </table>
@@ -39,8 +39,18 @@ Nulurn Task
 <table>
   <tr>
     <td>
+      <img src="screenshot/course_detail_screen.png" width=250 />
+    </td>
+    <td>
+      <img src="screenshot/youtube_screen.png" width=250 />
+    </td>
+    <td>
       <img src="screenshot/no_internet.png" width=250 />
     </td>
-    </tr>
+  </tr>
 </table>
 
+
+### Credits:
+
+- Icon by: Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>

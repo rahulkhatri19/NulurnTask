@@ -43,7 +43,7 @@ class CourseActivity : AppCompatActivity(), CourseAdapter.CourseItemInterface {
         ll_continue.setOnClickListener {
             if (userBoolean) {
                 startActivity(
-                    Intent(this, MainActivity::class.java).putExtra("title", titleUser)
+                    Intent(this, CourseDetailActivity::class.java).putExtra("title", titleUser)
                         .putExtra("subtitle", subtitleUser)
                 )
             }
