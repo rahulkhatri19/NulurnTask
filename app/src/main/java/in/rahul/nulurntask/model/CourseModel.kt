@@ -1,4 +1,3 @@
 package `in`.rahul.nulurntask.model
 
-class CourseModel(val courseName:String, val courseFullName:String) {
-}
+data class CourseModel(val courseName:String, val courseFullName:String)

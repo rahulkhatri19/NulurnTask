@@ -1,4 +1,12 @@
 <resources>
-    <string name="app_name">Nulurn Task</string>
+    <string name="app_name">Coaching</string>
     <string name="btn_continue">Continue</string>
+    <string name="app_logo">App Logo</string>
+    <string name="login">Login</string>
+    <string name="skip">Skip</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="share">Share</string>
+    <string name="youtube">Youtube</string>
+    <string name="coaching_app">Coaching App</string>
 </resources>
